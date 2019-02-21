@@ -1,0 +1,2 @@
+html.extstyler.aws.console section[ng-app="aws.apiManager"] a.side-nav__nav-item-link { max-width: 400px; width: 400px; }
+html.extstyler.aws.console section[ng-app="aws.apiManager"] .ui.card { width: 500px; }
