@@ -1,3 +1,4 @@
+html.extstyler.aws.console #lambda-functionDesigner { max-width: none; }
 html.extstyler.aws.console section[ng-app="aws.apiManager"] a.side-nav__nav-item-link { max-width: 400px; width: 400px; }
 html.extstyler.aws.console section[ng-app="aws.apiManager"] .ui.card { width: 500px; }
-html.extstyler.aws.console #lambda-functionDesigner { max-width: none; }
+html.extstyler.aws.console .run-task .content { width: 100%; }

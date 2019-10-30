@@ -6,4 +6,8 @@ document.documentElement.classList.add(
     .reverse()
     .slice(1)
     .reverse()
-)
+);
+
+document.querySelectorAll('input[autocorrect=off]').forEach(function(item) {
+  item.setAttribute('autocorrect', 'on');
+});
